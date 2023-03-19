@@ -1,6 +1,6 @@
-package guru.springframework.msscbreweryclient.web.client;
+package guru.springframework.sfgbreweryclient.web.client;
 
-import guru.springframework.msscbreweryclient.web.model.BeerDto;
+import guru.springframework.sfgbreweryclient.web.model.BeerDto;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;
 import org.springframework.web.client.RestTemplate;

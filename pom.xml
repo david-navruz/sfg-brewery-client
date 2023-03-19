@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>guru.springframework</groupId>
-    <artifactId>mssc-brewery-client</artifactId>
+    <artifactId>sfg-brewery-client</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>mssc-brewery-client</name>
+    <name>sfg-brewery-client</name>
     <description>SFG Brewery Client</description>
 
     <properties>
